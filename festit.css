@@ -121,4 +121,5 @@ li a:hover:not(.active) {
   margin-right: auto;
   width: 60%;
   bottom:0px;
+  image: url("logos_v2.png");
 }
