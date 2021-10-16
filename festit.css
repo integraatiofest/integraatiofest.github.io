@@ -119,6 +119,26 @@ li {
   width: 30%;
   padding: 1.5%;
 }
+@media all and (min-width: 1000px){
+.column {
+  margin-top: 120px;
+  display: block;
+  float: left;
+  width: 7%;
+  padding: 4.83%;
+  
+}
+}
+@media all and (min-width: 1000px){
+.column2 {
+  display: block;
+  float: left;
+
+  width: 20%;
+  padding: 6.65%;
+}
+}
+
 
 /* Clearfix (clear floats) */
 .row::after {
