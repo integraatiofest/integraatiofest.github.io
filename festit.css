@@ -117,8 +117,8 @@ li {
   display: block;
   float: left;
 
-  width: 30%;
-  padding: 1.5%;
+  width: 25%;
+  padding: 0.5%;
 }
 @media all and (min-width: 900px){
 .column {
@@ -135,8 +135,8 @@ li {
   display: block;
   float: left;
 
-  width: 20%;
-  padding: 6.65%;
+  width: 24%;
+  padding: 0.5%;
 }
 }
 
